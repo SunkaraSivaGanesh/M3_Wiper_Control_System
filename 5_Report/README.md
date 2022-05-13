@@ -101,6 +101,14 @@ Folder             | Description
 |`LLR4` | If the User Button is pressed FOURTH time ,all LED's on anticlock manner| Implemented
 |`LLR5` | If the User Button is pressed FIVTH times, the red LED will be off| Implemented
 
+![State_Diagram](https://user-images.githubusercontent.com/101381519/168340391-47b3fa2c-887e-44e1-9647-ce5fd52d5ae8.jpeg)
+
+![Flow Chart](https://user-images.githubusercontent.com/101381519/168340354-e51344b8-2f8f-4a64-8c46-2a5d09c09fa9.jpeg)
+
+![Block Diagram](https://user-images.githubusercontent.com/101381519/168340407-67e18db2-80b9-4cfa-83b5-5d59a5006a76.jpg)
+
+![Behaviour diagram](https://user-images.githubusercontent.com/101381519/168340416-117de95a-08af-42cb-b2a0-d7c14167d5dc.jpg)
+
 
 ## OFF CONDITION
 ![STM32 OFF Condition](https://user-images.githubusercontent.com/101381519/168338545-303ec50f-63db-457d-a587-724cbac0e37d.jpeg)
