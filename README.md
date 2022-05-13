@@ -9,8 +9,7 @@
 
 [![Code Quality - Cppcheck](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml)
 
-
-[![Code Quality - Cppcheck](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml)
+[![Bulid CI - windows](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Windows.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Windows.yml)
 
 
 [![Build_CI - Linux](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Linux.yml)
