@@ -11,3 +11,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml)
+
+
+[![Build_CI - Linux](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Linux.yml)
