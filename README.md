@@ -14,6 +14,9 @@
 
 [![Build_CI - Linux](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Linux.yml)
 
+![Car_Wiper](https://user-images.githubusercontent.com/101381519/168334627-7df366e1-0937-403c-8e70-2a5c84598e3f.jpg)
+
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
