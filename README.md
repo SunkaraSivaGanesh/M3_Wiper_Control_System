@@ -8,3 +8,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml)
+
+
+[![Code Quality - Cppcheck](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M3_Wiper_Control_System/actions/workflows/Cppcheck.yml)
